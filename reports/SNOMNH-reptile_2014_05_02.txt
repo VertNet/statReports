@@ -1,0 +1,105 @@
+Report for Institution Code SNOMNH, Resource reptile
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 290
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 61
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 2
+	Date: 2014-04-03 ; Times: 1
+	Date: 2014-04-07 ; Times: 1
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-15 ; Times: 1
+	Date: 2014-04-16 ; Times: 3
+	Date: 2014-04-18 ; Times: 2
+	Date: 2014-04-20 ; Times: 26
+	Date: 2014-04-21 ; Times: 7
+	Date: 2014-04-22 ; Times: 12
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-24 ; Times: 1
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus pyrocephalus" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "varanidae (skeleton and dry)" ; Times: 1
+	Query: "type:both AND (NOT Lab) mappable:1" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 2
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 2
+	Query: "Sceloporus spinosus" ; Times: 4
+	Query: "bothriopsis bilineata" ; Times: 2
+	Query: ""Crotalus scutulatus" type:both genus:Crotalus year >= 1888 year <= 2014" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 18
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "pseudocerastes" ; Times: 1
+	Query: "Barisia imbricata stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Bothriopsis taeniata" ; Times: 1
+	Query: "Sceloporus horridus" ; Times: 4
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: ""Crotalus scutulatus" type:both year >= 1888 year <= 2014" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "Crotalus abyssus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.1053045805633,-116.11038208007812))<5202" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 2
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "type:observation hastypestatus:1" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 290
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 290
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Brief explanation of each stat:
+
+1) Number of download events that retrieved data from the resource. The amount of times any record from your institution has appeared in a download. The number in parenthesis is how many result sets have been downloaded in total in the network, in the given period. We believe this is helpful to see the proportion of all the download events that have records from a particular institution.
+
+2) Total number of records downloaded. The amount of times any record from your institution has been downloaded. The number in parenthesis is the total amount of records that have been downloaded from the VertNet network in the given period.
+
+3) Total number of unique records downloaded. The number of individual records from your collection that have been downloaded. We believe this is helpful to calculate the proportion of your collection that has been downloaded.
+
+The main difference between (3) and (2) can be better explained with an example: If your collection has 3 records, 'a', 'b' and 'c', and 'a' is downloaded 3 times and 'b' is downloaded once, (2) would be 4, because there have been 4 downloaded records, but (3) would be 2, because only records 'a' and 'b' have been downloaded.
+
+4) Number of different countries. The amount of individual countries that have downloaded data from your institution in the given period.
+
+5) Breakdown of the individual countries, counting how many times they have downloaded records from your institution.
+
+6) Breakdown of dates when queries where made, with the number of downloads each day.
+
+7) Breakdown of query terms. These are the actual queries that were performed and which retrieved data,  from your institution. It also shows the number of times that query has been performed and the number of records pulled from your institution each time.
