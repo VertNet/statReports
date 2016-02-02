@@ -1,0 +1,199 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for September 2015, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1275
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 98
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-13 ; Times: 4
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-02 ; Times: 10
+	Date: 2015-09-29 ; Times: 26
+	Date: 2015-09-04 ; Times: 5
+	Date: 2015-09-30 ; Times: 7
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-07 ; Times: 11
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-26 ; Times: 3
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-22 ; Times: 6
+	Date: 2015-09-10 ; Times: 5
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-09 ; Times: 15
+	Date: 2015-09-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia county:&#34;Trego&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; class:amphibia mappable:1" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea tissue:1" ; Times: 2
+	Query: "specificepithet:variolatus genus:plethodon year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Louisiana genus:Terrapene" ; Times: 1
+	Query: "hyla versicolor ( hyla chrysoscelis) year &gt;= 1980 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "apalone (skel OR skeleton)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Gove&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; genus:Sauromalus" ; Times: 1
+	Query: "Crotalus adamanteus preparations:skeleton" ; Times: 2
+	Query: "crotalus preparations:skeleton (adamanteus)" ; Times: 1
+	Query: "incilius mazatlanensis" ; Times: 1
+	Query: "class:Amphibia county:&#34;Decatur&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; genus:Rhadinaea" ; Times: 2
+	Query: "Night snake" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "serpentes distance(location,geopoint(32.36758997712783,-108.61083984375))&lt;21608" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34; genus:anaxyrus mappable:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Logan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "hyla versicolor ( hyla chrysoscelis) year &gt;= 1950 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 4
+	Query: "specificepithet:guttatus family:colubridae" ; Times: 1
+	Query: "amphiuma pholeter" ; Times: 1
+	Query: "class:Reptilia county:&#34;Thomas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "terrapene tissue:1" ; Times: 1
+	Query: "Podarcis siculus siculus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Thomas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "Smilisca fodiens" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34; year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "class:Reptilia county:&#34;Tillman&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "specificepithet:variolatus genus:plethodon" ; Times: 1
+	Query: "class:Reptilia county:&#34;Trego&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Terrapene triunguis" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "class:Reptilia county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Reptilia catalognumber:5861" ; Times: 1
+	Query: "class:Amphibia county:&#34;Norton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 2
+	Query: "(terrapene) tissue:1" ; Times: 2
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "(deirochelys) tissue:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus tissue:1" ; Times: 1
+	Query: "Hyla wrightorum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:jeffersonianum genus:Ambystoma" ; Times: 2
+	Query: "class:Reptilia county:&#34;Norton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Podarcis siculus" ; Times: 2
+	Query: "phrynosoma hernandesi colorado" ; Times: 1
+	Query: "Herpetology Bradford Norman" ; Times: 2
+	Query: "class:Amphibia county:&#34;Rawlins&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "regina tissue:1" ; Times: 4
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "class:Reptilia county:&#34;Saline&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "regina septemvittata tissue:1" ; Times: 7
+	Query: "cystignathoides" ; Times: 1
+	Query: "eleutherodactylus sonora" ; Times: 1
+	Query: "class:Reptilia county:&#34;Gove&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "reptilia catalognumber:6380" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 7
+	Query: "fort polk Amphibia" ; Times: 1
+	Query: "Pantherophis bairdi" ; Times: 1
+	Query: "specificepithet:eximia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34; AND (NOT YPM)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Morton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Crotalus adamanteus type:specimen" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Rawlins&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Pantherophis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Decatur&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1045 download events in this period)
+Total number of records downloaded: 4983
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 44
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:variolatus genus:plethodon year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 2
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "specificepithet:chlorobryonis genus:plethodon stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Louisiana genus:Terrapene" ; Times: 2
+	Query: "specificepithet:bombifrons genus:spea tissue:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Crotaphytus tissue:1" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Lithobates blairi" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+
+
+End of report.
