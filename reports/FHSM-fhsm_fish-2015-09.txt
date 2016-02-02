@@ -1,0 +1,57 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for September 2015, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 207
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-04 ; Times: 3
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hall Nebraska" ; Times: 2
+	Query: "Macrhybopsis stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "21878" ; Times: 2
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "webster nebraska" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1045 download events in this period)
+Total number of records downloaded: 571
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+
+
+End of report.
