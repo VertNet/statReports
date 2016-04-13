@@ -1,0 +1,41 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for March 2016, generated on 2016/04/13
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nocomis biguttatus" ; Times: 3
+	Query: "11054" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 230 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
