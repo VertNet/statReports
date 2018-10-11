@@ -1,0 +1,138 @@
+Report for Institution Code FHSM, Resource fhsm_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 342
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-17 ; Times: 6
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:peromyscus county:&#34;riley&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(36.9494797994168,-94.3622751050489))&lt;4157" ; Times: 2
+	Query: "19696" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "distance(location,geopoint(38.852323899402,-85.8038361228021))&lt;13425" ; Times: 1
+	Query: "specificepithet:plicata genus:balantiopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "specificepithet:plicata genus:balantiopteryx locality:tapanatepec stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "chiroptera (oaxaca) institutioncode:FHSM" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "distance(location,geopoint(38.3077605964849,-90.3488216489505))&lt;13734" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "distance(location,geopoint(37.7298344069435,-89.8185165093348))&lt;9755" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "genus:Eumops stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.948701928946,-85.8056194503849))&lt;13560" ; Times: 1
+	Query: "distance(location,geopoint(43.34210307502,-93.6497951211712))&lt;21693" ; Times: 1
+	Query: "distance(location,geopoint(43.234007768888,-93.6727266167564))&lt;19735" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "specificepithet:parnellii genus:pteronotus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "distance(location,geopoint(45.2753844185115,-94.1628331295119))&lt;22822" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 2
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "distance(location,geopoint(45.082799345722,-93.302507982143))&lt;6070" ; Times: 1
+	Query: "distance(location,geopoint(37.703859764372,-89.602791061395))&lt;13804" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;kansas&#34; (prairie)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1169 download events in this period)
+Total number of records downloaded: 2432
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "class:Mammalia county:&#34;Pottawatomie&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+
+
+End of report.
