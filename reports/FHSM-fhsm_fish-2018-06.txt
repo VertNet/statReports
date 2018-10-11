@@ -1,0 +1,60 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 240
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "&#34;Paw Paw&#34; vntype:specimen" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Rhinichthys obtusus" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "gbifdatasetid:84e94348-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1169 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mountain Beaver" ; Times: 1
+
+
+End of report.
