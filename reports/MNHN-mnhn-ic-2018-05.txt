@@ -1,0 +1,136 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 541
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Turkey ; Times: 2
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 42
+	Country: Morocco ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 11
+	Date: 2018-05-31 ; Times: 12
+	Date: 2018-05-30 ; Times: 8
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 6
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "AL 3054" ; Times: 1
+	Query: "Labeo fimbriatus" ; Times: 1
+	Query: "pontianak" ; Times: 1
+	Query: "&#34;Labeo barbatulus&#34;" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "BPBM Vanuatu" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "bathycongrus varidens" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "country:&#34;Pitcairn&#34;" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "labeo nigricans" ; Times: 3
+	Query: "Labeo batesii" ; Times: 1
+	Query: "sand boa" ; Times: 1
+	Query: "Paramormyrops sphekodes" ; Times: 1
+	Query: "Morone americana " ; Times: 1
+	Query: "BMNH 92" ; Times: 1
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "(Bahrein )" ; Times: 1
+	Query: "Labeo gregorii" ; Times: 2
+	Query: "typhlichthys" ; Times: 1
+	Query: "labeo macrostoma" ; Times: 1
+	Query: "labeo barbatulus" ; Times: 1
+	Query: "Dysommina" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "Apogon atricaudus" ; Times: 7
+	Query: "echinorhinus" ; Times: 1
+	Query: "labeo niloticus" ; Times: 1
+	Query: "rasbora kalochroma" ; Times: 2
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "1974-172 institutioncode:MNHN" ; Times: 1
+	Query: "rioraja agassizii" ; Times: 4
+	Query: "leporinus pearsoni" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(decaryi )" ; Times: 4
+	Query: "Dysomma" ; Times: 1
+	Query: "Labeo greenii" ; Times: 2
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Robinsia" ; Times: 2
+	Query: "&#34;labeo niloticus&#34;" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "Apogon retrosella" ; Times: 2
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "atlantoraja castelnaui" ; Times: 2
+	Query: "(Calabar) institutioncode:MNHN" ; Times: 1
+	Query: "Cyathea" ; Times: 2
+	Query: "rmnh" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "koopman" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "Gobiesox adustus" ; Times: 3
+	Query: "barbus cercops" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1178 download events in this period)
+Total number of records downloaded: 85
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "&#34;Labeo barbatulus&#34;" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+
+
+End of report.
