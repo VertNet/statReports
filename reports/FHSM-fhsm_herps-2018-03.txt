@@ -1,0 +1,199 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 2739
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 205
+	Country: Sweden ; Times: 12
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 21
+	Date: 2018-03-29 ; Times: 8
+	Date: 2018-03-17 ; Times: 7
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 4
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-27 ; Times: 16
+	Date: 2018-03-30 ; Times: 6
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-06 ; Times: 7
+	Date: 2018-03-07 ; Times: 15
+	Date: 2018-03-08 ; Times: 8
+	Date: 2018-03-09 ; Times: 5
+	Date: 2018-03-24 ; Times: 11
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 8
+	Date: 2018-03-20 ; Times: 18
+	Date: 2018-03-21 ; Times: 15
+	Date: 2018-03-26 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 2
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 2
+	Query: "Crotalus horridus stateprovince:&#34;Tennessee&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Desmognathus folkertsi vntype:specimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 3
+	Query: "Chionactis stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "regina grahamii" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 2
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 5
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Lithobates specificepithet:grylio" ; Times: 2
+	Query: "genus:Holbrookia county:&#34;Cimarron&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:mazatlanensis" ; Times: 6
+	Query: "15119" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus institutioncode:FHSM hastissue:1" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Kansas&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 5
+	Query: "16171" ; Times: 3
+	Query: "specificepithet:scutulatus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:FHSM hastissue:1" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 2
+	Query: "Drymarchon stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "12594 R" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Kentucky&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 5
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 2
+	Query: "genus:Ophisaurus year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "Crotalus horridus stateprovince:&#34;North Carolina&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018 mappable:1" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 3
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 5
+	Query: "phoca georgia" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "Thamnophis sirtalis jefferson" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 5
+	Query: "genus:crotalus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Pinal county crotalus" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Cimarron&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Amphiuma county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018 mappable:1" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;california&#34; year &gt;= 1986" ; Times: 2
+	Query: "Reptilia Texas gray county" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Sonora stateprovince:&#34;California&#34; mappable:1" ; Times: 2
+	Query: "Crotalus stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:helleri genus:Crotalus institutioncode:FHSM hastissue:1" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Louisiana&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Necturus county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; mappable:1" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 5
+	Query: "specificepithet:sipedon genus:nerodia hastissue:1" ; Times: 1
+	Query: "genus:Pseudotriton county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018 mappable:1" ; Times: 2
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 6
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "16003" ; Times: 1
+	Query: "Contortrix Oklahoma comanche" ; Times: 4
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 6
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 3
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "(Lithobates sylvaticus)" ; Times: 4
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 5
+	Query: "Crotalus horridus stateprovince:&#34;Missouri&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 2
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 5
+	Query: "Reptilia new mexico conchas" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:helleri genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Franklin&#34; stateprovince:&#34;Florida&#34; mappable:1" ; Times: 1
+	Query: "class:Amphibia AND Reptilia order:Anura" ; Times: 1
+	Query: "genus:Pseudotriton county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; mappable:1" ; Times: 1
+	Query: "genus:Hemidactylus specificepithet:turcicus" ; Times: 1
+	Query: "genus:Graptemys hastissue:1" ; Times: 2
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "lacerta bilineata" ; Times: 1
+	Query: "Cerastes hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:FHSM" ; Times: 2
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Arkansas&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 5
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 4
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 2
+	Query: "specificepithet:euryxanthus genus:micruroides" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "fhsm 8237" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018 mappable:1" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 4
+	Query: "Crotalus horridus stateprovince:&#34;Alabama&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Ambystoma county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018 mappable:1" ; Times: 1
+	Query: "genus:Crotalus specificepithet:ruber" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1284 download events in this period)
+Total number of records downloaded: 5510
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-25 ; Times: 5
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 2
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "sceloporus siniferus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:FHSM" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
